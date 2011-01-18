@@ -1,0 +1,22 @@
+body {
+    font-family: Gill sans, sans-serif;
+    background-color: ivory;
+    text-align: justify;
+}
+
+h1, h2, th {
+    font-family: Baskerville, serif;
+    color: midnightblue;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+p {
+    line-height: 1.5em;
+}

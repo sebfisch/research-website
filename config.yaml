@@ -1,0 +1,6 @@
+indexfile:      pages.yaml
+title:          "Sebastian Fischer"
+sourcedir:      .
+datadir:        .
+filesdir:       files
+layout:         layout.html.st
