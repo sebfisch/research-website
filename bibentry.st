@@ -3,7 +3,7 @@
 $if(it.bib)$
 ~~~
 @$it.bib:entry()${$it.bib:key()$,
-  author: {$it.author; separator=", "$},
+  author: {$it.author; separator=" and "$},
   title: {$it.title$},
 $if(it.bib.InProceedings)$
   booktitle: {$it.booktitle$},

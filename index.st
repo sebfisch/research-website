@@ -1,7 +1,7 @@
 ![](profile.jpg)
 
 I am a [DAAD] Research Fellow at [NII], Tokyo supervised by [Zhenjiang
-Hu]. See the [CV] for my professional history.
+Hu]. See the [CV] for more stations of my professional career.
 
 [DAAD]: http://www.daad.de/en/index.html
 [NII]: http://www.nii.ac.jp/en/
@@ -16,6 +16,7 @@ Contact
 
 +--------------+-----------------------------------------+
 | __Address__: | ~~~                                     |
+|              | c/o Prof. Zhenjiang Hu                  |
 |              | National Institute of Informatics (NII) |
 |              | 2-1-2, Hitotsubashi, Chiyoda-ku, Tokyo  |
 |              | 101-8430                                |
@@ -72,7 +73,7 @@ See [my github page] for a complete list of my open source projects.
 
 Publications
 ------------
-[BibTeX entries](bib-entries.html)
+[BibTeX entries](bibtex.html)
 
 $publications:publication()$
 

@@ -8,7 +8,7 @@
   data:
     publications: FROM publications.yaml ORDER BY year DESC
 
-- url: bib-entries.html
+- url: bibtex.html
   title: "Sebastian Fischer's Publications"
   template: bibentries
   requires:
