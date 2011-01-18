@@ -9,7 +9,7 @@ Hu]. See the [CV] for my professional history.
 [Dr.rer.nat.]: http://en.wikipedia.org/wiki/Doctor_of_Science#Germany.2C_Austria.2C_Switzerland
 [University of Kiel]: http://www.uni-kiel.de/
 [old website]: http://www-ps.informatik.uni-kiel.de/~sebf/
-[CV]: http://www-ps.informatik.uni-kiel.de/~sebf/CV.pdf
+[CV]: cv.pdf
 
 Contact
 -------
