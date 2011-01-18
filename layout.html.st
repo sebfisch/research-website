@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>Sebastian Fischer</h1>
+<h1>$pagetitle$</h1>
 
 $contents$
 

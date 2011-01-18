@@ -1,3 +1,20 @@
-- url:          index.html
-  title:        "Sebastian Fischer"
-  template:     index
+- url: index.html
+  title: "Sebastian Fischer"
+  template: index
+  requires:
+    - publication.st
+    - link.st
+    - key.st
+  data:
+    publications: FROM publications.yaml ORDER BY year DESC
+
+- url: bib-entries.html
+  title: "Sebastian Fischer's Publications"
+  template: bibentries
+  requires:
+    - bibentry.st
+    - key.st
+    - entry.st
+  data:
+    publications: FROM publications.yaml ORDER BY year DESC
+

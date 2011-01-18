@@ -1,22 +1,37 @@
 body {
+    padding-left: 5%;
+    max-width: 42em;
     font-family: Gill sans, sans-serif;
     background-color: ivory;
-    text-align: justify;
 }
 
-h1, h2, th {
+h1, h2, th, a {
     font-family: Baskerville, serif;
-    color: midnightblue;
+    color: steelblue;
+    font-weight: bold;
 }
 
 h1 {
-    font-size: 4em;
-}
-
-h2 {
     font-size: 3em;
 }
 
-p {
+h2 {
+    font-size: 2em;
+    clear: both;
+}
+
+p, ul {
     line-height: 1.5em;
+}
+
+td {
+    vertical-align: top;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 2em;
+    margin-bottom: 2em;
 }
