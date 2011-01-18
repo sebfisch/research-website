@@ -9,9 +9,9 @@ $if(it.bib.InProceedings)$
   booktitle: {$it.booktitle$},
   publisher: {$it.publisher$},$endif$$if(it.bib.PhdThesis)$
   school: {$it.publisher$},
-  type: {Dissertation zur Erlangung des akademischen Grades Doktor der Naturwissenschaften (Dr.rer.nat.)},$endif$$if(it.bib.MastersThesis)$
+  type: {$it.booktitle$},$endif$$if(it.bib.MastersThesis)$
   school: {$it.publisher$},
-  type: {Diplomarbeit},$endif$
+  type: {$it.booktitle$},$endif$
   year: $it.year$,
   note: {available at: \\url{$it.url$}}
 }

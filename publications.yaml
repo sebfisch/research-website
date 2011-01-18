@@ -19,7 +19,7 @@
  - title: "On Functional Logic Programming and its Application to Testing"
    author: "Sebastian Fischer"
    year: 2010
-   booktitle: "Doctoral Dissertation"
+   booktitle: "Dissertation zur Erlangung des akademischen Grades Doktor der Naturwissenschaften (Dr.rer.nat.)"
    publisher: "Christian-Albrechts University of Kiel, Germany"
    url: "http://www-ps.informatik.uni-kiel.de/~sebf/thesis.pdf"
    extra:
@@ -180,7 +180,7 @@
  - title: "Functional Logic Programming with Databases"
    author: "Sebastian Fischer"
    year: 2005
-   booktitle: "Diploma Thesis"
+   booktitle: "Diplomarbeit"
    publisher: "Christian-Albrechts University of Kiel, Germany"
    url: "http://www-ps.informatik.uni-kiel.de/~sebf/data/pub/diploma05.pdf"
    bib:
