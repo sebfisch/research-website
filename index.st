@@ -1,7 +1,7 @@
 ![](profile.jpg)
 
-I am a [DAAD] Research Fellow at [NII], Tokyo supervised by [Zhenjiang
-Hu]. See the [CV] for more stations of my professional career.
+I am currently a [DAAD] Research Fellow at [NII], Tokyo supervised by
+[Zhenjiang Hu]. See my [CV] for a summary of what I did previously.
 
 [DAAD]: http://www.daad.de/en/index.html
 [NII]: http://www.nii.ac.jp/en/
@@ -16,13 +16,16 @@ Contact
 
 +--------------+-----------------------------------------+
 | __Address__: | ~~~                                     |
-|              | c/o Prof. Zhenjiang Hu                  |
+|              | Sebastian Fischer                       |
+|              | DAAD Research Fellow                    |
 |              | National Institute of Informatics (NII) |
 |              | 2-1-2, Hitotsubashi, Chiyoda-ku, Tokyo  |
 |              | 101-8430                                |
 |              | ~~~                                     |
 |              |                                         |
 |              | ~~~                                     |
+|              | セバスティアン　フィッシャー                  |
+|              | DAAD特別研究員                            |
 |              | 国立情報学研究所（NII）                     |
 |              | 〒101-8430　東京都千代田区一ツ橋2-1-2        |
 |              | ~~~                                     |
