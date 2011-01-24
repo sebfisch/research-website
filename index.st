@@ -74,6 +74,14 @@ See [my github page] for a complete list of my open source projects.
 
 <a name="publications"></a>
 
+Scientific Activities
+---------------------
+
+ - Program Commitee member of the [20th International Workshop on
+   Functional and (Constraint) Logic Programming, WFLP 2011][WFLP'11]
+
+[WFLP'11]: http://www.wi.uni-muenster.de/pi/konferenzen/wflp2011/wflp2011.htm
+
 Publications
 ------------
 [BibTeX entries](bibtex.html)
