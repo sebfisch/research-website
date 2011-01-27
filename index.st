@@ -14,26 +14,20 @@ I am currently a [DAAD] Research Fellow at [NII], Tokyo supervised by
 Contact
 -------
 
-+--------------+-----------------------------------------+
-| __Address__: | ~~~                                     |
-|              | Sebastian Fischer                       |
-|              | DAAD Research Fellow                    |
-|              | National Institute of Informatics (NII) |
-|              | 2-1-2, Hitotsubashi, Chiyoda-ku, Tokyo  |
-|              | 101-8430                                |
-|              | ~~~                                     |
-|              |                                         |
-|              | ~~~                                     |
-|              | セバスティアン　フィッシャー                  |
-|              | DAAD特別研究員                            |
-|              | 国立情報学研究所（NII）                     |
-|              | 〒101-8430　東京都千代田区一ツ橋2-1-2        |
-|              | ~~~                                     |
-+--------------+-----------------------------------------+
-|  __E-Mail__: | [fischer@nii.ac.jp] ([encryption])      |
-+--------------+-----------------------------------------+
-|   __Skype__: | federigo.pescatore                      |
-+--------------+-----------------------------------------+
+[fischer@nii.ac.jp] ([encryption])
+
+~~~
+Sebastian Fischer
+DAAD Research Fellow
+National Institute of Informatics (NII)
+2-1-2, Hitotsubashi, Chiyoda-ku, Tokyo
+101-8430
+
+セバスティアン　フィッシャー
+DAAD特別研究員
+国立情報学研究所（NII）
+〒101-8430　東京都千代田区一ツ橋2-1-2
+~~~
 
 [fischer@nii.ac.jp]: mailto:fischer@nii.ac.jp
 [encryption]: fischer.gpgkey

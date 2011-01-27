@@ -6,7 +6,7 @@ blogdir=../blog/site/research/
 
 .PHONY public:
 	cp site/* $(blogdir)
-	(cd $(blogdir) && git commit -a)
+	(cd $(blogdir); git commit -a; git push)
 
 files/cv.pdf: cv.tex
 	pdflatex -output-directory=files cv
