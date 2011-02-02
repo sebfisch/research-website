@@ -85,6 +85,20 @@
    bib:
      InProceedings: ChristiansenFischerFLOPS08
 
+ - title: "Lazy Call-By-Value Evaluation"
+   author:
+     - "Bernd Braßel"
+     - "Sebastian Fischer"
+     - "Michael Hanus"
+     - "Frank Huch"
+     - "German Vidal"
+   year: 2007
+   booktitle: "Proceedings of the 12th ACM SIGPLAN International Conference on Functional Programming (ICFP'07)"
+   publisher: "ACM Press"
+   url: "http://www.informatik.uni-kiel.de/~mh/papers/ICFP07.pdf"
+   bib:
+     InProceedings: Brassel+ICFP07
+
  - title: "Preserving Sharing in the Partial Evaluation of Lazy Functional Programs"
    author:
      - "Sebastian Fischer"
