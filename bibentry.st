@@ -6,8 +6,8 @@ $if(it.bib)$
   author: {$it.author; separator=" and "$},
   title: {$it.title$},
 $if(it.bib.InProceedings)$
-  booktitle: {$it.booktitle$},
-  publisher: {$it.publisher$},$endif$$if(it.bib.PhdThesis)$
+  booktitle: {$it.booktitle$},$if(it.publisher)$
+  publisher: {$it.publisher$},$endif$$endif$$if(it.bib.PhdThesis)$
   school: {$it.publisher$},
   type: {$it.booktitle$},$endif$$if(it.bib.MastersThesis)$
   school: {$it.publisher$},

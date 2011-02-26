@@ -30,6 +30,18 @@
    bib:
      PhdThesis: FischerDiss
 
+ - title: "The Pull-Tab Transformation"
+   author:
+     - "Abdulla Alqaddoumi"
+     - "Sergio Antoy"
+     - "Sebastian Fischer"
+     - "Fabian Reck"
+   year: 2010
+   booktitle: "Preproceedings of the Third International Workshop on Graph Computation Models (GCM'10)"
+   url: "http://web.cecs.pdx.edu/~antoy/homepage/publications/gcm10/paper.pdf"
+   bib:
+     InProceedings: Alqaddoumi+10
+
  - title: "Reinventing Haskell Backtracking"
    author: "Sebastian Fischer"
    year: 2009
