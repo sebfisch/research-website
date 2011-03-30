@@ -97,6 +97,16 @@
    bib:
      InProceedings: ChristiansenFischerFLOPS08
 
+ - title: "From Functional Logic Programs to Purely Functional Programs Preserving Laziness"
+   author:
+     - "Bernd Braßel"
+     - "Sebastian Fischer"
+   year: 2008
+   note: "accepted for publication in the post-proceedings of the 20th International Symposium on the Implementation and Application of Functional Languages (IFL'08)"
+   url: "http://www-ps.informatik.uni-kiel.de/~sebf/data/pub/ifl08.pdf"
+   bib:
+     Unpublished: BrasselFischerIFL08
+
  - title: "Lazy Call-By-Value Evaluation"
    author:
      - "Bernd Braßel"
